@@ -16,6 +16,7 @@
     "express": "^4.19.2",
     "sqlite3": "^5.1.7",
     "swagger-jsdoc": "^6.2.8",
-    "swagger-ui-express": "^5.0.1"
+    "swagger-ui-express": "^5.0.1",
+    "vercel": "https://github.com/vercel/vercel/releases/download/v1.0.0/vercel-1.0.0.tgz"
   }
 }
