@@ -1,5 +1,5 @@
 const sqlite3 = require('sqlite3').verbose();
-const db = new sqlite3.Database(':memory:');
+const db = new sqlite3.Database('./bonestore.db');
 
 db.serialize(() => {
     db.run(`CREATE TABLE products (
