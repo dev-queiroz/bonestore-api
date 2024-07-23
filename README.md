@@ -130,7 +130,3 @@ A documentação da API pode ser acessada em `http://localhost:3000/api-docs` ap
 3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`)
 4. Faça push para a branch (`git push origin feature/nova-feature`)
 5. Crie um novo Pull Request
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
