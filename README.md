@@ -122,11 +122,3 @@ API REST para gerenciamento de produtos de uma loja de bonés. Esta API permite 
 ## Documentação da API
 
 A documentação da API pode ser acessada em `http://localhost:3000/api-docs` após iniciar o servidor.
-
-## Contribuição
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
-3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`)
-4. Faça push para a branch (`git push origin feature/nova-feature`)
-5. Crie um novo Pull Request
